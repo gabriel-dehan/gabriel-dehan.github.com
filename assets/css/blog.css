@@ -1,0 +1,65 @@
+.site {
+  width: 46em;
+}
+
+.title a:first-child {
+  font-size: 1.3em;
+}
+
+.site .title a.extra:hover {
+  color: #3A2317;
+}
+
+.contact strong a {
+  text-decoration: none;
+}
+.contact strong a:hover {
+  text-decoration: underline;
+}
+
+.highlight {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#post pre {
+  margin-left: 20px;
+  padding-top: 1em;
+}
+
+#post h2 {
+  margin: 20px 0 10px;
+  padding-bottom: 5px;
+  font-size: 1.5em;
+  border-bottom: 1px solid #CCC;
+}
+
+#post h1 {
+  margin: 20px 0 10px;
+  font-size: 2em;
+  margin-bottom: 0;
+}
+
+#post a {
+  text-decoration: none;
+  color: #2FBC3F;
+}
+#post a:hover {
+  color: #D35815;
+}
+
+#post .tag_box, #post .tag_articles {
+  margin-left: 0;
+}
+
+.tag_box li, .tag_articles li {
+  list-style: none;
+}
+
+.tag_box li a, .tag_articles li a {
+  padding-left: 5px;
+}
+
+pre {
+  font-size: 14px;
+}
