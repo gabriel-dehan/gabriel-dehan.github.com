@@ -49,7 +49,7 @@ _Pseudo sorted by priority_
     <tr>
       <td><a href="http://pragprog.com/book/achbd/the-rspec-book">The Rspec Book</a></td>
       <td>-</td>
-      <td>0%</td>
+      <td>_NTB_</td>
     </tr>
     <tr>
       <td><a href="http://devblog.avdi.org/2012/06/05/confident-ruby-beta/">Confident Ruby</a></td>
@@ -62,14 +62,24 @@ _Pseudo sorted by priority_
       <td>0%</td>
     </tr>
     <tr>
+      <td><a href="http://www.amazon.com/Refactoring-Ruby-William-C-Wake/dp/0321545044">Refactoring in Ruby</a></td>
+      <td>William C. Wake</td>
+      <td>_NTB_</td>
+    </tr>
+    <tr>
+      <td><a href="http://www.amazon.com/Refactoring-Ruby-Edition-Jay-Fields/dp/0321603508/ref=pd_sim_b_1">Refactoring: Ruby Edition</a></td>
+      <td>Jay Fields</td>
+      <td>_NTB_</td>
+    </tr>
+    <tr>
       <td><a href="http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612">Design Patterns: Elements of Reusable Object-Oriented Software</a></td>
       <td><a href="http://c2.com/cgi/wiki?GangOfFour">The GOF</a></td>
-      <td>0%</td>
+      <td>_NTB_</td>
     </tr>
     <tr>
       <td><a href="http://www1.idc.ac.il/tecs/">Building a Modern Computer from First Principles</a></td>
       <td>-</td>
-      <td>0%</td>
+      <td>5%</td>
     </tr>
     <tr>
       <td><a href="http://216.92.238.133/Webster/www.artofasm.com/index.html">The Art of Assembly (HLA)</a></td>
@@ -79,7 +89,7 @@ _Pseudo sorted by priority_
     <tr>
       <td><a href="http://www.amazon.com/Compilers-Principles-Techniques-Alfred-Aho/dp/0201100886">The Dragon Book</a></td>
       <td>-</td>
-      <td>0%</td>
+      <td>_NTB_</td>
     </tr>
     <tr>
       <td><a href=""></a></td>
@@ -88,6 +98,7 @@ _Pseudo sorted by priority_
     </tr>
   </tbody>
 </table>
+_NTB_: Need To Buy it
 
 
 ### Articles
