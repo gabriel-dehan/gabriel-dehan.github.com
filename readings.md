@@ -8,12 +8,12 @@ description: ""
 # Readings
 
 Here is a list of every computer science related article or book I want to read or that I already found interesting.<br />
-<p class="small">_(As this list expand, I am pretty sure I will need to turn into a cat to get enough lifes to read them all.)_</p>
+<em class="small">(As this list expand, I am pretty sure I will need to turn into a cat to get enough lifes to read them all.)</em>
 
 ## To read list
 
 ### Books
-_Pseudo sorted by priority_
+<em class="small">Pseudo sorted by priority<em/>
 
 <table class="table table-striped table-bordered table-condensed">
   <thead>
@@ -99,7 +99,7 @@ _Pseudo sorted by priority_
     </tr>
   </tbody>
 </table>
-<p><em>NTB</em>: Need To Buy it</p>
+<p><em class="small">NTB</em>: Need To Buy it</p>
 
 
 ### Articles
