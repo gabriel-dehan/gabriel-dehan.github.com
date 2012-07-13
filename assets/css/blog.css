@@ -48,18 +48,26 @@
   color: #D35815;
 }
 
-#post .tag_box, #post .tag_articles {
+#post .tag_box, #post .tag_articles, #post .pages {
   margin-left: 0;
 }
 
-.tag_box li, .tag_articles li {
+.tag_box li, .tag_articles li, .pages li {
   list-style: none;
 }
 
-.tag_box li a, .tag_articles li a {
+.tag_box li a, .tag_articles li a, .pages li a {
   padding-left: 5px;
 }
 
 pre {
   font-size: 14px;
+}
+
+thead td {
+  font-weight: bold;
+}
+
+table td {
+  vertical-align: middle;
 }

@@ -74,6 +74,8 @@ JB :
   categories_path : /categories.html
   tags_path : /tags.html
   about_path : /about.html
+  pages_path : /pages.html
+  readings_path : /readings.html
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
