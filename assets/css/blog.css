@@ -68,6 +68,6 @@ thead td {
   font-weight: bold;
 }
 
-table td {
+table td, .table td {
   vertical-align: middle;
 }
