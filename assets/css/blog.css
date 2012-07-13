@@ -41,7 +41,7 @@
 }
 
 #post h3 {
-  font-size: 1.4em;
+  font-size: 1.3em;
 }
 
 #post h4 {
@@ -50,7 +50,7 @@
 }
 
 #post p, #post table {
-  padding-left: 10px;
+  margin-left: 10px;
 }
 
 #post a {
