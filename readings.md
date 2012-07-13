@@ -8,7 +8,7 @@ description: ""
 # Readings
 
 Here is a list of every computer science related article or book I want to read or that I already found interesting.<br />
-<em class="small">(As this list expand, I am pretty sure I will need to turn into a cat to get enough lifes to read them all.)</em>
+<em class="small">(As this list expands, I am pretty sure I will need to turn into a cat to get enough lifes to read them all.)</em>
 
 ## To read list
 
