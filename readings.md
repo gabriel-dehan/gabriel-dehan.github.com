@@ -7,7 +7,8 @@ description: ""
 
 # Readings
 
-Here is a list of every computer science related article or book I want to read or I already found interesting.
+Here is a list of every computer science related article or book I want to read or that I already found interesting.
+(_As this list expand, I am pretty sure I will need to turn into a cat to get enough lifes to read them all._)
 
 ## To read list
 
@@ -98,7 +99,7 @@ _Pseudo sorted by priority_
     </tr>
   </tbody>
 </table>
-<em>NTB</em>: Need To Buy it
+<p><em>NTB</em>: Need To Buy it</p>
 
 
 ### Articles
