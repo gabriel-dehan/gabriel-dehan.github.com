@@ -13,7 +13,7 @@ Here is a list of every computer science related article or book I want to read 
 ## To read list
 
 ### Books
-<em class="small">Pseudo sorted by priority</em>
+<p><em class="small">Pseudo sorted by priority</em></p>
 
 <table class="table table-striped table-bordered table-condensed">
   <thead>
