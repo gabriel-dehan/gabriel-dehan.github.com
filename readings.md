@@ -99,7 +99,7 @@ Here is a list of every computer science related article or book I want to read 
     </tr>
   </tbody>
 </table>
-<p><em class="small">NTB</em>: Need To Buy it</p>
+<p class="small"><em>NTB</em>: Need To Buy it</p>
 
 
 ### Articles
