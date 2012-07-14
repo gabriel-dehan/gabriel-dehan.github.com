@@ -7,7 +7,7 @@ description: ""
 
 # Readings
 
-Here is a list of every computer science related article or book I want to read or that I already found interesting.<br />
+Here is a list of every computer science related article or book I want to read or that I already read and found interesting enough.<br />
 <em class="small">(As this list expands, I am pretty sure I will need to turn into a cat to get enough lifes to read them all.)</em>
 
 ## To read list
@@ -43,6 +43,11 @@ Here is a list of every computer science related article or book I want to read 
       <td>10%</td>
     </tr>
     <tr>
+      <td><a href="http://manning.com/katz/">Rails 3 in action</a></td>
+      <td>Ryan Bigg<br />Yehuda Katz</td>
+      <td>TBB</td>
+    </tr>
+    <tr>
       <td><a href="http://pragprog.com/book/ppmetr/metaprogramming-ruby">Metaprogramming Ruby</a></td>
       <td>Paolo Perrotta</td>
       <td>0%</td>
@@ -50,7 +55,7 @@ Here is a list of every computer science related article or book I want to read 
     <tr>
       <td><a href="http://pragprog.com/book/achbd/the-rspec-book">The Rspec Book</a></td>
       <td>-</td>
-      <td><em>NTB</em></td>
+      <td><em>TBB</em></td>
     </tr>
     <tr>
       <td><a href="http://devblog.avdi.org/2012/06/05/confident-ruby-beta/">Confident Ruby</a></td>
@@ -65,17 +70,17 @@ Here is a list of every computer science related article or book I want to read 
     <tr>
       <td><a href="http://www.amazon.com/Refactoring-Ruby-William-C-Wake/dp/0321545044">Refactoring in Ruby</a></td>
       <td>William C. Wake</td>
-      <td><em>NTB</em></td>
+      <td><em>TBB</em></td>
     </tr>
     <tr>
       <td><a href="http://www.amazon.com/Refactoring-Ruby-Edition-Jay-Fields/dp/0321603508/ref=pd_sim_b_1">Refactoring: Ruby Edition</a></td>
       <td>Jay Fields</td>
-      <td><em>NTB</em></td>
+      <td><em>TBB</em></td>
     </tr>
     <tr>
       <td><a href="http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612">Design Patterns: Elements of Reusable Object-Oriented Software</a></td>
       <td><a href="http://c2.com/cgi/wiki?GangOfFour">The GOF</a></td>
-      <td><em>NTB</em></td>
+      <td><em>TBB</em></td>
     </tr>
     <tr>
       <td><a href="http://www1.idc.ac.il/tecs/">Building a Modern Computer from First Principles</a></td>
@@ -90,7 +95,7 @@ Here is a list of every computer science related article or book I want to read 
     <tr>
       <td><a href="http://www.amazon.com/Compilers-Principles-Techniques-Alfred-Aho/dp/0201100886">The Dragon Book</a></td>
       <td>-</td>
-      <td><em>NTB</em></td>
+      <td><em>TBB</em></td>
     </tr>
     <tr>
       <td><a href=""></a></td>
@@ -99,15 +104,20 @@ Here is a list of every computer science related article or book I want to read 
     </tr>
   </tbody>
 </table>
-<p class="small"><em>NTB</em>: Need To Buy it</p>
+<p class="small"><em>TBB</em>: To Be Bought</p>
 
 
 ### Articles
 
 * [Presenters in Rails](http://devblog.avdi.org/2012/06/04/displaycase-gem-now-available/)
+* [Cooking up a custom rails 3 template](http://blog.madebydna.com/all/code/2010/10/11/cooking-up-a-custom-rails3-template.html)
+* [Using the Rake build language](http://martinfowler.com/articles/rake.html)
+* [Love your lib directory](http://reefpoints.dockyard.com/ruby/2012/02/14/love-your-lib-directory.html)
 
 ## Useful resources
 
 ### Books
 
 ### Articles
+
+* [You can learn a whole lot about Unix from that one little command](http://blog.extracheese.org/2010/05/the-tar-pipe.html)
