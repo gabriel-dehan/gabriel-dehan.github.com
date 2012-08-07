@@ -22,6 +22,10 @@
   margin-bottom: 10px;
 }
 
+.highlight #post pre {
+  padding: 0.5em;
+}
+
 #post pre {
   margin-left: 20px;
   padding-top: 1em;

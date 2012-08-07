@@ -2,7 +2,7 @@
 layout: post
 title: "Now presenting SimpleDecorator"
 description: ""
-category: 
+category: "Gem"
 tags: ['design-pattern', 'ruby', 'delegator', 'decorator', 'simple-decorator']
 ---
 {% include JB/setup %}
@@ -15,7 +15,7 @@ You can find it on Github, or on [Rubygems](https://rubygems.org/gems/simple-dec
 
 Well, of course, a design pattern.<br />
 
-A **decorator** (pattern from [[\[GOF\]](http://en.wikipedia.org/wiki/Design_Patterns)) allows you to add additional or specific behavior to an object instance,
+A **decorator** (pattern from [\[GOF\]](http://en.wikipedia.org/wiki/Design_Patterns)) allows you to add additional or specific behavior to an object instance,
  by wrapping this instance and providing new methods. Decorators are an easy way to provide a peculiar interface in a given context.<br />
 
 SimpleDecorator allows you to quickly implement `Decorators` in your application.
