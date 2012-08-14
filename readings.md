@@ -120,4 +120,8 @@ Here is a list of every computer science related article or book I want to read 
 
 ### Articles
 
+#### Unix
 * [You can learn a whole lot about Unix from that one little command](http://blog.extracheese.org/2010/05/the-tar-pipe.html)
+
+#### Javascript
+* [High-Performance, Garbage-Collector-Friendly code](http://buildnewgames.com/garbage-collector-friendly-code/) - **Talks about:** Garbage collection, Objects pool, Javascript Game Development, Memory Optimisations
