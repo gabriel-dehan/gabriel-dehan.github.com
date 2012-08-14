@@ -7,6 +7,8 @@ header: Pages
 
 # Gabriel Dehan
 
+<img src="/assets/img/content/about_illustration.png" css=/>
+
 Ohoy ! So, the name is **Gabriel**, and I am a _Web student_ @cifacom, in **Paris**, France.<br />
 I am passionate about _Ruby, Rails, Meteor.js, computer internals, programming languages internals_, and I see design pattern everywhere.<br />
 
