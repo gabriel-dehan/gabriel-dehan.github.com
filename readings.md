@@ -73,6 +73,11 @@ Here is a list of every computer science related article or book I want to read 
       <td>35%</td>
     </tr>
     <tr>
+      <td><a href="http://www.amazon.com/Time-Warrior-procrastination-people-pleasing-ebook/dp/B004NSV2T8">Time Warrior, How to defeat procrastination</a></td>
+      <td>Steve Chandler</td>
+      <td>TBB</td>
+    </tr>
+    <tr>
       <td><a href="http://www.amazon.com/Refactoring-Ruby-William-C-Wake/dp/0321545044">Refactoring in Ruby</a></td>
       <td>William C. Wake</td>
       <td><em>TBB</em></td>
@@ -119,19 +124,29 @@ Here is a list of every computer science related article or book I want to read 
 
 ### Articles
 
-* [Presenters in Rails](http://devblog.avdi.org/2012/06/04/displaycase-gem-now-available/)
-* [Cooking up a custom rails 3 template](http://blog.madebydna.com/all/code/2010/10/11/cooking-up-a-custom-rails3-template.html)
-* [Using the Rake build language](http://martinfowler.com/articles/rake.html)
-* [Love your lib directory](http://reefpoints.dockyard.com/ruby/2012/02/14/love-your-lib-directory.html)
+#### Unix
+* [Understanding diff and patch](http://tuts.pinehead.tv/2012/09/18/introduction-using-diff-and-patch/)
+
+#### Web
+* [Eratosthenes: refactoring the web](http://research.microsoft.com/apps/pubs/default.aspx?id=173709)
 
 #### Javascript
 * [Learning from twitter](http://ejohn.org/blog/learning-from-twitter/#postcomment)
+* [Experiments in Optimization](https://github.com/ingenuitas/simplecv-js/wiki/Experiments-in-Optimization)
+* [DOM Sprites: A viable Alternative to Canvas](http://buildnewgames.com/dom-sprites/)
+
+#### Javascript - Node.js
+* [Understanding Streams](https://github.com/substack/stream-handbook)
 
 #### Ruby
 * [Understanding metaclasses (_why)](http://dannytatom.me/metaid/)
+* [Using the Rake build language](http://martinfowler.com/articles/rake.html)
 
 #### Ruby - Rails
+* [Hexagonal Rails (and subsequent articles)](http://blog.mattwynne.net/2012/04/09/hexagonal-rails-introduction/)
 * [Rails Performances needs an overhaul](http://www.igvita.com/2010/06/07/rails-performance-needs-an-overhaul/)
+* [Presenters in Rails](http://devblog.avdi.org/2012/06/04/displaycase-gem-now-available/)
+* [Cooking up a custom rails 3 template](http://blog.madebydna.com/all/code/2010/10/11/cooking-up-a-custom-rails3-template.html)
 
 #### Ruby - _why
 * [Why's diary](http://www.advogato.org/person/whytheluckystiff)
@@ -155,6 +170,7 @@ Here is a list of every computer science related article or book I want to read 
 
 #### Javascript
 * [High-Performance, Garbage-Collector-Friendly code](http://buildnewgames.com/garbage-collector-friendly-code/) - **Talks about:** Garbage collection, Objects pool, Javascript Game Development, Memory Optimisations
+* [If Hemingway wrote JavaScript](http://byfat.xxx/if-hemingway-wrote-javascript)
 
 #### Ruby
 * [21 Ruby Tricks](http://www.rubyinside.com/21-ruby-tricks-902.html)
@@ -164,3 +180,7 @@ Here is a list of every computer science related article or book I want to read 
 
 ## Music /!\ THIS NEEDS TO MOVE AWAY /!\
 * [I played your heartbeat in my ear - More than one hour of Piano themes from animes, lots of pleasure](http://8tracks.com/kimtsan/i-played-your-heartbeat-in-my-ear)
+
+## It's fuckin' pretty /!\ THIS NEEDS TO MOVE AWAY /!\
+* [ISS Star Trails](http://www.flickr.com/photos/nasa_jsc_photo/sets/72157629726792248/)
+* [Trees underwater](http://www.taucherforum.at/coppermine/displayimage.php?pid=899)
