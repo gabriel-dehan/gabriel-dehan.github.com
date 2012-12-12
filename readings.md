@@ -23,7 +23,7 @@ Here is a list of every computer science related article or book I want to read 
   </thead>
   <tbody>
     <tr>
-      <td><a href="http://www.amazon.com/Engineers-Scientists-Iconoclasts---Programmers-Revolution/dp/0465042260/ref=sr_1_1?s=books&ie=UTF8&qid=1324406043&sr=1-1">The story of computers</td>
+      <td><a href="http://www.amazon.com/Engineers-Scientists-Iconoclasts---Programmers-Revolution/dp/0465042260/ref=sr_1_1?s=books&ie=UTF8&qid=1324406043&sr=1-1">The story of computers</a></td>
       <td>Steve Lohr</td>
       <td><em>TBB</em></td>
     </tr>
