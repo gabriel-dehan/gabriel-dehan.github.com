@@ -23,6 +23,11 @@ Here is a list of every computer science related article or book I want to read 
   </thead>
   <tbody>
     <tr>
+      <td><a href="http://www.amazon.com/Engineers-Scientists-Iconoclasts---Programmers-Revolution/dp/0465042260/ref=sr_1_1?s=books&ie=UTF8&qid=1324406043&sr=1-1">The story of computers</td>
+      <td>Steve Lohr</td>
+      <td><em>TBB</em></td>
+    </tr>
+    <tr>
       <td><a href="http://www.amazon.com/Enterprise-Application-Architecture-Addison-Wesley-Signature/dp/0321127420">PEAA</a></td>
       <td>Martin Fowler</td>
       <td>15%</td>
@@ -65,7 +70,7 @@ Here is a list of every computer science related article or book I want to read 
     <tr>
       <td><a href="http://patshaughnessy.net/ruby-under-a-microscope">Ruby Under a Microscope</a> - </td>
       <td>Pat Shaughnessy</td>
-      <td>0%</td>
+      <td>35%</td>
     </tr>
     <tr>
       <td><a href="http://www.amazon.com/Refactoring-Ruby-William-C-Wake/dp/0321545044">Refactoring in Ruby</a></td>
@@ -86,6 +91,11 @@ Here is a list of every computer science related article or book I want to read 
       <td><a href="http://www1.idc.ac.il/tecs/">Building a Modern Computer from First Principles</a></td>
       <td>-</td>
       <td>5%</td>
+    </tr>
+    <tr>
+      <td><a href="http://codev2.cc/download+remix/Lessig-Codev2.pdf">Code 2.0</a></td>
+      <td>Lawrence Lessig</td>
+      <td>0%</td>
     </tr>
     <tr>
       <td><a href="http://216.92.238.133/Webster/www.artofasm.com/index.html">The Art of Assembly (HLA)</a></td>
@@ -114,14 +124,43 @@ Here is a list of every computer science related article or book I want to read 
 * [Using the Rake build language](http://martinfowler.com/articles/rake.html)
 * [Love your lib directory](http://reefpoints.dockyard.com/ruby/2012/02/14/love-your-lib-directory.html)
 
-## Useful resources
+#### Javascript
+* [Learning from twitter](http://ejohn.org/blog/learning-from-twitter/#postcomment)
+
+#### Ruby
+* [Understanding metaclasses (_why)](http://dannytatom.me/metaid/)
+
+#### Ruby - Rails
+* [Rails Performances needs an overhaul](http://www.igvita.com/2010/06/07/rails-performance-needs-an-overhaul/)
+
+#### Ruby - _why
+* [Why's diary](http://www.advogato.org/person/whytheluckystiff)
+* [Why's work](http://viewsourcecode.org/why/)
+
+## Read (and found useful slash interesting)
 
 ### Books
 
+#### Ruby
+* [Why's poignant guide to ruby](http://mislav.uniqpath.com/poignant-guide)
+
 ### Articles
+
+#### Personal development
+* [Common Programmer Health Problems](http://sheddingbikes.com/posts/1281257293.html)
 
 #### Unix
 * [You can learn a whole lot about Unix from that one little command](http://blog.extracheese.org/2010/05/the-tar-pipe.html)
+* [An aside about shell](http://blog.extracheese.org/2010/11/an-aside-about-shell-conditionals.html)
 
 #### Javascript
 * [High-Performance, Garbage-Collector-Friendly code](http://buildnewgames.com/garbage-collector-friendly-code/) - **Talks about:** Garbage collection, Objects pool, Javascript Game Development, Memory Optimisations
+
+#### Ruby
+* [21 Ruby Tricks](http://www.rubyinside.com/21-ruby-tricks-902.html)
+
+#### Ruby - Community
+* [Where 's why - A journey through the ruby community](http://www.slate.com/articles/technology/technology/2012/03/ruby_ruby_on_rails_and__why_the_disappearance_of_one_of_the_world_s_most_beloved_computer_programmers_.html)
+
+## Music /!\ THIS NEEDS TO MOVE AWAY /!\
+* [I played your heartbeat in my ear - More than one hour of Piano themes from animes, lots of pleasure](http://8tracks.com/kimtsan/i-played-your-heartbeat-in-my-ear)
