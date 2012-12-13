@@ -141,6 +141,7 @@ Here is a list of every computer science related article or book I want to read 
 #### Ruby
 * [Understanding metaclasses (_why)](http://dannytatom.me/metaid/)
 * [Using the Rake build language](http://martinfowler.com/articles/rake.html)
+* [Ruby C API](http://x-aeon.com/wp/2012/12/13/the-ruby-c-api-basics/)
 
 #### Ruby - Rails
 * [Hexagonal Rails (and subsequent articles)](http://blog.mattwynne.net/2012/04/09/hexagonal-rails-introduction/)
