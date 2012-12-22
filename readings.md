@@ -130,6 +130,10 @@ Here is a list of every computer science related article or book I want to read 
 #### Web
 * [Eratosthenes: refactoring the web](http://research.microsoft.com/apps/pubs/default.aspx?id=173709)
 
+#### Functional Programming
+* [Functional Programming From First Principles](http://channel9.msdn.com/posts/Erik-Meijer-Functional-Programming-From-First-Principles)
+* [Functional Programming Fundamentals I](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-1)
+
 #### Javascript
 * [Learning from twitter](http://ejohn.org/blog/learning-from-twitter/#postcomment)
 * [Experiments in Optimization](https://github.com/ingenuitas/simplecv-js/wiki/Experiments-in-Optimization)
@@ -142,6 +146,13 @@ Here is a list of every computer science related article or book I want to read 
 * [Understanding metaclasses (_why)](http://dannytatom.me/metaid/)
 * [Using the Rake build language](http://martinfowler.com/articles/rake.html)
 * [Ruby C API](http://x-aeon.com/wp/2012/12/13/the-ruby-c-api-basics/)
+* [Code checking](https://codeclimate.com/)
+
+#### Ruby - Gems
+* [Rocket Pants](https://github.com/filtersquad/rocket_pants)
+* [Webmachine](https://github.com/basho/webmachine)
+* [Celluloid](https://github.com/celluloid/celluloid)
+* [Grape](https://github.com/intridea/grape)
 
 #### Ruby - Rails
 * [Hexagonal Rails (and subsequent articles)](http://blog.mattwynne.net/2012/04/09/hexagonal-rails-introduction/)
