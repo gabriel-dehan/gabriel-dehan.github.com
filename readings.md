@@ -70,7 +70,12 @@ Here is a list of every computer science related article or book I want to read 
     <tr>
       <td><a href="http://patshaughnessy.net/ruby-under-a-microscope">Ruby Under a Microscope</a> - </td>
       <td>Pat Shaughnessy</td>
-      <td>35%</td>
+      <td>45%</td>
+    </tr>
+    <tr>
+    <td><a href="http://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/0534950973">Introduction to the theory of computation</a></td>
+    <td>Michael Sipser</td>
+    <td>TBB</td>
     </tr>
     <tr>
       <td><a href="http://www.amazon.com/Time-Warrior-procrastination-people-pleasing-ebook/dp/B004NSV2T8">Time Warrior, How to defeat procrastination</a></td>
