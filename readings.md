@@ -201,6 +201,9 @@ Here is a list of every computer science related article or book I want to read 
 
 ## Useful ressources
 
+### Talks
+* [Mindful Design](http://www.robbiemanson.com/articles/the-mindful-designer-talk/)
+
 ### Libs
 
 #### Javascript Transcompilers
