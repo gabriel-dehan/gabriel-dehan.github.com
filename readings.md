@@ -148,6 +148,7 @@ Here is a list of every computer science related article or book I want to read 
 * [Learning from twitter](http://ejohn.org/blog/learning-from-twitter/#postcomment)
 * [Experiments in Optimization](https://github.com/ingenuitas/simplecv-js/wiki/Experiments-in-Optimization)
 * [DOM Sprites: A viable Alternative to Canvas](http://buildnewgames.com/dom-sprites/)
+* [Understanding Promises](https://github.com/kriskowal/q/blob/master/design/README.js)
 
 #### Javascript - Node.js
 * [Understanding Streams](https://github.com/substack/stream-handbook)
@@ -199,6 +200,16 @@ Here is a list of every computer science related article or book I want to read 
 * [Where 's why - A journey through the ruby community](http://www.slate.com/articles/technology/technology/2012/03/ruby_ruby_on_rails_and__why_the_disappearance_of_one_of_the_world_s_most_beloved_computer_programmers_.html)
 
 ## Useful ressources
+
+### Libs
+
+#### Javascript Transcompilers
+* [Sweeten your JS (syntacic sugar and macros)](http://sweetjs.org/)
+* [Lisp-like JS](http://lispyscript.com)
+* [Haskell-like JS](http://fay-lang.org/)
+
+#### Javascript
+* [EaselJS - Canvas Lib](http://www.createjs.com/#!/EaselJS)
 
 ### Articles
 
