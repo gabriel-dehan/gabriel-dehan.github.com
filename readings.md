@@ -25,7 +25,7 @@ Here is a list of every computer science related article or book I want to read 
     <tr>
       <td><a href="http://www.amazon.com/Singularity-Near-Humans-Transcend-Biology/dp/0143037889">The Singularity is Near (French : Humanité 2.0)</a></td>
       <td>Ray Kurzweil</td>
-      <td>20%</td>
+      <td>25%</td>
     </tr>
     <tr>
       <td><a href="http://www.amazon.com/Engineers-Scientists-Iconoclasts---Programmers-Revolution/dp/0465042260/ref=sr_1_1?s=books&ie=UTF8&qid=1324406043&sr=1-1">The story of computers</a></td>
@@ -181,8 +181,6 @@ Here is a list of every computer science related article or book I want to read 
 #### Ruby
 * [Why's poignant guide to ruby](http://mislav.uniqpath.com/poignant-guide)
 
-### Articles
-
 #### Personal development
 * [Common Programmer Health Problems](http://sheddingbikes.com/posts/1281257293.html)
 
@@ -199,6 +197,16 @@ Here is a list of every computer science related article or book I want to read 
 
 #### Ruby - Community
 * [Where 's why - A journey through the ruby community](http://www.slate.com/articles/technology/technology/2012/03/ruby_ruby_on_rails_and__why_the_disappearance_of_one_of_the_world_s_most_beloved_computer_programmers_.html)
+
+## Useful ressources
+
+### Articles
+
+#### Development
+- [Visualize Regexp](http://www.regexper.com/)
+
+#### Javascript
+- [How to use grunt](http://ruudud.github.com/2012/12/22/grunt/)
 
 ## Music /!\ THIS NEEDS TO MOVE AWAY /!\
 * [I played your heartbeat in my ear - More than one hour of Piano themes from animes, lots of pleasure](http://8tracks.com/kimtsan/i-played-your-heartbeat-in-my-ear)
