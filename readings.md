@@ -150,6 +150,7 @@ Here is a list of every computer science related article or book I want to read 
 * [DOM Sprites: A viable Alternative to Canvas](http://buildnewgames.com/dom-sprites/)
 * [JS Physics Engines Comparison](http://buildnewgames.com/physics-engines-comparison)
 * [Understanding Promises](https://github.com/kriskowal/q/blob/master/design/README.js)
+* [AngularJS](http://www.quora.com/Ember-js/Which-one-of-angular-js-and-ember-js-is-the-better-choice)
 
 #### Javascript - Node.js
 * [Understanding Streams](https://github.com/substack/stream-handbook)
