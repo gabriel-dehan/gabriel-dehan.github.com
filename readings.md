@@ -148,6 +148,7 @@ Here is a list of every computer science related article or book I want to read 
 * [Learning from twitter](http://ejohn.org/blog/learning-from-twitter/#postcomment)
 * [Experiments in Optimization](https://github.com/ingenuitas/simplecv-js/wiki/Experiments-in-Optimization)
 * [DOM Sprites: A viable Alternative to Canvas](http://buildnewgames.com/dom-sprites/)
+* [JS Physics Engines Comparison](http://buildnewgames.com/physics-engines-comparison)
 * [Understanding Promises](https://github.com/kriskowal/q/blob/master/design/README.js)
 
 #### Javascript - Node.js
