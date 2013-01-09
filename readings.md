@@ -211,6 +211,7 @@ Here is a list of every computer science related article or book I want to read 
 * [Sweeten your JS (syntacic sugar and macros)](http://sweetjs.org/)
 * [Lisp-like JS](http://lispyscript.com)
 * [Haskell-like JS](http://fay-lang.org/)
+* [Simple cart](http://simplecartjs.org/)
 
 #### Javascript
 * [EaselJS - Canvas Lib](http://www.createjs.com/#!/EaselJS)
