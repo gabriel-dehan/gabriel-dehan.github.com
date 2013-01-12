@@ -184,6 +184,11 @@ Here is a list of every computer science related article or book I want to read 
 #### Ruby
 * [Why's poignant guide to ruby](http://mislav.uniqpath.com/poignant-guide)
 
+### Articles
+
+#### Software architecture
+* [Clean architecture](http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+
 #### Personal development
 * [Common Programmer Health Problems](http://sheddingbikes.com/posts/1281257293.html)
 
