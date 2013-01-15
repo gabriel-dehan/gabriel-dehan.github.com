@@ -203,6 +203,9 @@ Here is a list of every computer science related article or book I want to read 
 #### Ruby
 * [21 Ruby Tricks](http://www.rubyinside.com/21-ruby-tricks-902.html)
 
+#### Ruby - Rails
+* [7 Ways to refactor models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
+
 #### Ruby - Community
 * [Where 's why - A journey through the ruby community](http://www.slate.com/articles/technology/technology/2012/03/ruby_ruby_on_rails_and__why_the_disappearance_of_one_of_the_world_s_most_beloved_computer_programmers_.html)
 
