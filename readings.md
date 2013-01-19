@@ -204,6 +204,7 @@ Here is a list of every computer science related article or book I want to read 
 
 #### Ruby
 * [21 Ruby Tricks](http://www.rubyinside.com/21-ruby-tricks-902.html)
+* [Enumerators](http://www.dev.gd/20130114-building-sequences-with-enumerator.html?utm_source=rubyweekly&utm_medium=email)
 
 #### Ruby - Rails
 * [7 Ways to refactor models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
