@@ -151,6 +151,7 @@ Here is a list of every computer science related article or book I want to read 
 * [JS Physics Engines Comparison](http://buildnewgames.com/physics-engines-comparison)
 * [Understanding Promises](https://github.com/kriskowal/q/blob/master/design/README.js)
 * [AngularJS](http://www.quora.com/Ember-js/Which-one-of-angular-js-and-ember-js-is-the-better-choice)
+* [EmberJS - Rails::API](http://reefpoints.dockyard.com/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1.html?utm_source=rubyweekly&utm_medium=email)
 
 #### Javascript - Node.js
 * [Understanding Streams](https://github.com/substack/stream-handbook)
@@ -160,6 +161,7 @@ Here is a list of every computer science related article or book I want to read 
 * [Using the Rake build language](http://martinfowler.com/articles/rake.html)
 * [Ruby C API](http://x-aeon.com/wp/2012/12/13/the-ruby-c-api-basics/)
 * [Code checking](https://codeclimate.com/)
+* [Ruby Motion Tutorial](http://blog.crowdint.com/2013/01/16/developing-ios-applications-with-ruby.html?utm_source=blogpost&utm_medium=rubyflow&utm_campaign=rubymotion)
 
 #### Ruby - Gems
 * [Rocket Pants](https://github.com/filtersquad/rocket_pants)
