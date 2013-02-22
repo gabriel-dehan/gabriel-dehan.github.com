@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Readings"
+title: "Why's Poignant Guide"
 description: ""
 ---
 {% include JB/setup %}
