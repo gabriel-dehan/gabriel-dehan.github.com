@@ -127,5 +127,36 @@ What kind of black magic is that ? Can I talk to it ? Will it answer ? Will it a
 You get it out of your pocket, and sit down on a step of this stair you were walking up. As you start to discuss with it, you begin to enjoy it and have a nice little chat about the philosophical implications of the disparities found in multiple states of consciousness. But sadly, you are running late and you put it back in your pocket.<br /><br />
 
 "It is really a nice thing, maybe I should give it a name. Gregory ? Wait. Is it a girl ? Or a guy ?"<br />
+"I think it's a guy."<br /><br />
+
+"Mr. Freckle"
 
 # Chapter - 5 : I miss cucumber-cat
+
+But he hisses you too, don't worry.<br />
+Do you think he will rot ? Meowing helplessly ?<br />
+
+# Chapter - 6 : Time to pitch in
+
+You finally make it to the front of your classroom.<br />
+A sign on the door reads : "Don't hurt the door."<br /><br />
+
+"That's considerate" - You think.<br /><br />
+
+You are not willing to hurt this poor door and ask her politely :<br />
+"Could you open, please ? Mrs. Door ?"<br /><br />
+
+Nothing. Not even a whistle in the dark.<br />
+She has left you no choice : you have to knock.<br /><br />
+
+"Sorry, little door."<br /><br /><br />
+
+As you start knocking, the door starts whining, but suddenly opens.<br />
+There is not much people there. Maybe 5 or 6. You enter quietly, gently pushing the door, patting the door.<br /><br />
+
+Nobody notices you. They are all arguing, writing stuff, yelling, whispering. And they have really long hair.<br /><br />
+
+"Hippies." - You think, contemptuously.<br /><br />
+
+But as you are getting closer, you notice that those were not hair. Not at all. They are all linked to some sort of giant horizontal technological-touchy-board. Those are very thin cables. All links. You want to caress one, it might be as soft as a cucumber-cat's skin.<br />
+You wished.<br />
