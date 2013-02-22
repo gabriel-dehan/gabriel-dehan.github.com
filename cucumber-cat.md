@@ -9,11 +9,11 @@ This is not my story. This is yours. The story of how you joined this University
 
 # Chapter - 0 : When you met cucumber-cat
 
-It was an accident. Really, I swear. A real accident. I mean, car crashing, firetrucks down, blood, screams, the whole thing. A real mess.
+It was an accident. Really, I swear. A real accident. I mean, car crashing, firetrucks down, blood, screams, the whole thing. A real mess.<br />
 You were quite alive. I think, it was a long time ago. You were stuck between two cars, tough; convinced that you were going to die here, forgotten behind the curtain of smoke.
 Some time passed. It might have been hours, or seconds, how could you know ? You should have bought this watch. I told you. Well, anyway, time had passed when you heard the sound of helicopters getting closer. The smoke started to clear up. And he was there. On top of the yellow taxi. Right there.
 
-Carried away by he's delirium, he was laughing. A raving, demented laugh, reverberating throughout the night.
+Carried away by his delirium, he was laughing. A raving, demented laugh, reverberating throughout the night.
 It was beautiful.
 He looked down on you. You, feeble little thing. So flimsy, so weak. He lifted up one of the cars that were crushing you. Like this, easily, as if weighted nothing more than a cow. A cow !
 It was beautiful. He jumped to the ground, licked his wound for a few minutes, and then into your dizzy arms, licking yours.
