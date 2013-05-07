@@ -161,6 +161,8 @@ Here is a list of every computer science related article or book I want to read 
 * [Using the Rake build language](http://martinfowler.com/articles/rake.html)
 * [Ruby C API](http://x-aeon.com/wp/2012/12/13/the-ruby-c-api-basics/)
 * [Code checking](https://codeclimate.com/)
+* [Threading](https://gist.github.com/Somebody32/5232120)
+* [Emacs configuration](https://github.com/julienXX/dotemacs)
 * [Ruby Motion Tutorial](http://blog.crowdint.com/2013/01/16/developing-ios-applications-with-ruby.html?utm_source=blogpost&utm_medium=rubyflow&utm_campaign=rubymotion)
 
 #### Ruby - Gems
