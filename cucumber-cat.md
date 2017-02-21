@@ -42,7 +42,7 @@ You take a closer look from the entrance. The sun shines on the tremendous garde
 You breath. Now that you think of it, it looks much like a cathedral. A bit more up-to-date, maybe. There is some weird giant RJ45 cable hanging from something that looks a lot like an arrow slit.<br />
 Well, you mean, it's made of a lot glass, of course. So much for the intimacy, by the way.<br /><br />
 
-"But it still looks like an arrow slit." - You think, aloud, walking along the pathway.<br /><br />
+"But it still looks like an arrow slit." - You think aloud, walking along the pathway.<br /><br />
 
 Maybe you should have brought a gift ?<br />
 But you are now in front of the entrance. It's a bit intimidating, I know. Now, come on. Step inside. It's only carved wood on those panels, I can assure you.<br /><br />
@@ -70,8 +70,9 @@ Once done, you hand back the forms, dripping with wet ink.<br /><br />
 
 You are now officially a student. You don't feel much like lying on the carpet now. You want to discover it all.<br />
 There is a massive board over there. At the other end of the hallway. This might be a good place to start, there is a lot of people writing on it, reading it. You start walking, getting ready to go closer, when you are suddenly shout out at.<br />
-It's an old friend of yours. What is he doing here ?<br />
-He seems to be here to guide you. He is talking about receiving a notification, sharing the same interests, he has been sent. You don't get it. Maybe he is a dopplëganger ? an Angel ?<br /><br />
+It's an old acquaintance of yours. What is he doing here ?<br />
+He seems to be here to guide you. He is talking about receiving a notification, sharing the same interests, he has been sent for you. 
+You don't get it. Maybe he is a dopplëganger ? a flimsy angel, here to cover you with his tender arms ?<br /><br />
 
 He is telling you all about the registration form you filled in, and how they looked for students you might have known and might get along with.<br /><br />
 
@@ -80,11 +81,11 @@ Whilst  slowly moving towards the great board, he introduces you to a lot of old
 "- Is this some sort of a "Friends Reunited" reunion ?" - You ask<br />
 "- Not at all, but it is important to build up a community and create friendships, you will always do your best with people you like and who shares your interests.<br />
 - But isn't it like being social ? I don't like that ! I want my cucumber-cat !<br />
-- Don't worry."<br /><br />
+- Don't worry, he sent us a note, all will be fine."<br /><br />
 
-All of a sudden, he stops, rummage his left pocket and take out one of those technological-touch-thingy, before giving it to me.<br /><br />
+All of a sudden, he stops, rummage his left pocket and take out one of those technological-touch-thingy, before giving it to you.<br /><br />
 
-"- You will need it." - He says, before vanishing all the sudden, leaving only a slight trail of sulfury smell and maniacal laugh behind.<br /><br />
+"- You will need it." - He says, before vanishing all the sudden, leaving only a slight trail of sulfury smell and a maniacal laugh behind.<br /><br />
 
 # Chapter - 3 : Informations
 
