@@ -87,7 +87,7 @@ All of a sudden, he stops, rummage his left pocket and take out one of those tec
 
 "- You will need it." - He says, before vanishing all the sudden, leaving only a slight trail of sulfury smell and a maniacal laugh behind.<br /><br />
 
-# Chapter - 3 : Informations
+# Chapter - 3 : Information
 
 Where has he gone ? Maybe he is in a better place. This thing happens, you know. Don't worry.<br />
 Now, take a look at this new device of yours. Like this, slide this thing.<br />
@@ -159,5 +159,5 @@ Nobody notices you. They are all arguing, writing stuff, yelling, whispering. An
 
 "Hippies." - You think, contemptuously.<br /><br />
 
-But as you are getting closer, you notice that those were not hair. Not at all. They are all linked to some sort of giant horizontal technological-touchy-board. Those are very thin cables. All links. You want to caress one, it might be as soft as a cucumber-cat's skin.<br />
+But as you are getting closer, you notice that those were not hair. Not at all. They are all linked to some sort of giant horizontal technological-touchy-board. Those are very thin cables. All links. You want to caress one, it might be as soft as a cucumber-cat's skin.<br /><br />
 You wished.<br />
