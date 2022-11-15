@@ -1,0 +1,1071 @@
+<html>
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Resume - Gabriel Dehan</title>
+	<style>
+		/* cspell:disable-file */
+		/* webkit printing magic: print all background colors */
+		html {
+			-webkit-print-color-adjust: exact;
+		}
+
+		* {
+			box-sizing: border-box;
+			-webkit-print-color-adjust: exact;
+		}
+
+		html,
+		body {
+			margin: 0;
+			padding: 0;
+		}
+
+		@media only screen {
+			body {
+				color: rgb(55, 53, 47);
+			}
+		}
+
+		body {
+			line-height: 1.5;
+		}
+
+		a,
+		a.visited {
+			color: inherit;
+			text-decoration: underline;
+		}
+
+		.pdf-relative-link-path {
+			font-size: 80%;
+			color: #444;
+		}
+
+		h1,
+		h2,
+		h3 {
+			letter-spacing: -0.01em;
+			line-height: 1.2;
+			font-weight: 600;
+			margin-bottom: 0;
+		}
+
+		.page {
+			margin: 2em auto;
+			max-width: 900px;
+		}
+
+		.page-title {
+			font-size: 2.5rem;
+			font-weight: 700;
+			margin-top: 0;
+			margin-bottom: 0.75em;
+		}
+
+		h1 {
+			font-size: 1.875rem;
+			margin-top: 1.875rem;
+		}
+
+		h2 {
+			font-size: 1.5rem;
+			margin-top: 1.5rem;
+		}
+
+		h3 {
+			font-size: 1.25rem;
+			margin-top: 1.25rem;
+		}
+
+		.source {
+			border: 1px solid #ddd;
+			border-radius: 3px;
+			padding: 1.5em;
+			word-break: break-all;
+		}
+
+		.callout {
+			border-radius: 3px;
+			padding: 1rem;
+		}
+
+		figure {
+			margin: 1.25em 0;
+			page-break-inside: avoid;
+		}
+
+		figcaption {
+			opacity: 0.5;
+			font-size: 85%;
+			margin-top: 0.5em;
+		}
+
+		mark {
+			background-color: transparent;
+		}
+
+		.indented {
+			padding-left: 1.5em;
+		}
+
+		hr {
+			background: transparent;
+			display: block;
+			width: 100%;
+			height: 1px;
+			visibility: visible;
+			border: none;
+			border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+		}
+
+		img {
+			max-width: 100%;
+		}
+
+		@media only print {
+			img {
+				max-height: 100vh;
+				object-fit: contain;
+			}
+		}
+
+		@page {
+			margin: 1in;
+		}
+
+		.collection-content {
+			font-size: 0.875rem;
+		}
+
+		.column-list {
+			display: flex;
+			justify-content: space-between;
+		}
+
+		.column {
+			padding: 0 1em;
+		}
+
+		.column:first-child {
+			padding-left: 0;
+		}
+
+		.column:last-child {
+			padding-right: 0;
+		}
+
+		.table_of_contents-item {
+			display: block;
+			font-size: 0.875rem;
+			line-height: 1.3;
+			padding: 0.125rem;
+		}
+
+		.table_of_contents-indent-1 {
+			margin-left: 1.5rem;
+		}
+
+		.table_of_contents-indent-2 {
+			margin-left: 3rem;
+		}
+
+		.table_of_contents-indent-3 {
+			margin-left: 4.5rem;
+		}
+
+		.table_of_contents-link {
+			text-decoration: none;
+			opacity: 0.7;
+			border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+		}
+
+		table,
+		th,
+		td {
+			border: 1px solid rgba(55, 53, 47, 0.09);
+			border-collapse: collapse;
+		}
+
+		table {
+			border-left: none;
+			border-right: none;
+		}
+
+		th,
+		td {
+			font-weight: normal;
+			padding: 0.25em 0.5em;
+			line-height: 1.5;
+			min-height: 1.5em;
+			text-align: left;
+		}
+
+		th {
+			color: rgba(55, 53, 47, 0.6);
+		}
+
+		ol,
+		ul {
+			margin: 0;
+			margin-block-start: 0.6em;
+			margin-block-end: 0.6em;
+		}
+
+		li>ol:first-child,
+		li>ul:first-child {
+			margin-block-start: 0.6em;
+		}
+
+		ul>li {
+			list-style: disc;
+		}
+
+		ul.to-do-list {
+			text-indent: -1.7em;
+		}
+
+		ul.to-do-list>li {
+			list-style: none;
+		}
+
+		.to-do-children-checked {
+			text-decoration: line-through;
+			opacity: 0.375;
+		}
+
+		ul.toggle>li {
+			list-style: none;
+		}
+
+		ul {
+			padding-inline-start: 1.7em;
+		}
+
+		ul>li {
+			padding-left: 0.1em;
+		}
+
+		ol {
+			padding-inline-start: 1.6em;
+		}
+
+		ol>li {
+			padding-left: 0.2em;
+		}
+
+		.mono ol {
+			padding-inline-start: 2em;
+		}
+
+		.mono ol>li {
+			text-indent: -0.4em;
+		}
+
+		.toggle {
+			padding-inline-start: 0em;
+			list-style-type: none;
+		}
+
+		/* Indent toggle children */
+		.toggle>li>details {
+			padding-left: 1.7em;
+		}
+
+		.toggle>li>details>summary {
+			margin-left: -1.1em;
+		}
+
+		.selected-value {
+			display: inline-block;
+			padding: 0 0.5em;
+			background: rgba(206, 205, 202, 0.5);
+			border-radius: 3px;
+			margin-right: 0.5em;
+			margin-top: 0.3em;
+			margin-bottom: 0.3em;
+			white-space: nowrap;
+		}
+
+		.collection-title {
+			display: inline-block;
+			margin-right: 1em;
+		}
+
+		time {
+			opacity: 0.5;
+		}
+
+		.definition {
+			margin-top: 0;
+		}
+
+		.icon {
+			display: inline-block;
+			max-width: 1.2em;
+			max-height: 1.2em;
+			text-decoration: none;
+			vertical-align: text-bottom;
+			margin-right: 0.5em;
+		}
+
+		img.icon {
+			border-radius: 3px;
+		}
+
+		.avatar {
+			max-width: 3em;
+			max-height: 3em;
+			border-radius: 8px !important;
+		}
+
+		.user-icon {
+			width: 1.5em;
+			height: 1.5em;
+			border-radius: 100%;
+			margin-right: 0.5rem;
+		}
+
+		.user-icon-inner {
+			font-size: 0.8em;
+		}
+
+		.text-icon {
+			border: 1px solid #000;
+			text-align: center;
+		}
+
+		.page-cover-image {
+			display: block;
+			object-fit: cover;
+			width: 100%;
+			height: 30vh;
+		}
+
+		.page-header-icon {
+			font-size: 3rem;
+			margin-bottom: 1rem;
+		}
+
+		.page-header-icon-with-cover {
+			margin-top: -1.6em;
+			margin-left: 0.07em;
+		}
+
+		.page-header-icon img {
+			border-radius: 3px;
+		}
+
+		.link-to-page {
+			margin: 1em 0;
+			padding: 0;
+			border: none;
+			font-weight: 500;
+		}
+
+		p>.user {
+			opacity: 0.5;
+		}
+
+		td>.user,
+		td>time {
+			white-space: nowrap;
+		}
+
+		input[type="checkbox"] {
+			transform: scale(1.5);
+			margin-right: 0.6em;
+			vertical-align: middle;
+		}
+
+		p {
+			margin-top: 0.5em;
+			margin-bottom: 0.5em;
+		}
+
+		.image {
+			border: none;
+			margin: 1.5em 0;
+			padding: 0;
+			border-radius: 0;
+			text-align: center;
+		}
+
+		.code,
+		code {
+			background: rgba(135, 131, 120, 0.15);
+			border-radius: 3px;
+			padding: 0.2em 0.4em;
+			border-radius: 3px;
+			font-size: 85%;
+			tab-size: 2;
+		}
+
+		code {
+			color: #eb5757;
+		}
+
+		.code {
+			padding: 1.5em 1em;
+		}
+
+		.code-wrap {
+			white-space: pre-wrap;
+			word-break: break-all;
+		}
+
+		.code>code {
+			background: none;
+			padding: 0;
+			font-size: 100%;
+			color: inherit;
+		}
+
+		blockquote {
+			font-size: 1.25em;
+			margin: 1em 0;
+			padding-left: 1em;
+			border-left: 3px solid rgb(55, 53, 47);
+		}
+
+		.work {
+			margin-top: 0;
+		}
+
+		.work-list {
+			margin-top: 2em;
+		}
+
+		.bookmark {
+			text-decoration: none;
+			max-height: 8em;
+			padding: 0;
+			display: flex;
+			width: 100%;
+			align-items: stretch;
+		}
+
+		.bookmark-title {
+			font-size: 0.85em;
+			overflow: hidden;
+			text-overflow: ellipsis;
+			height: 1.75em;
+			white-space: nowrap;
+		}
+
+		.bookmark-text {
+			display: flex;
+			flex-direction: column;
+		}
+
+		.bookmark-info {
+			flex: 4 1 180px;
+			padding: 12px 14px 14px;
+			display: flex;
+			flex-direction: column;
+			justify-content: space-between;
+		}
+
+		.bookmark-image {
+			width: 33%;
+			flex: 1 1 180px;
+			display: block;
+			position: relative;
+			object-fit: cover;
+			border-radius: 1px;
+		}
+
+		.bookmark-description {
+			color: rgba(55, 53, 47, 0.6);
+			font-size: 0.75em;
+			overflow: hidden;
+			max-height: 4.5em;
+			word-break: break-word;
+		}
+
+		.bookmark-href {
+			font-size: 0.75em;
+			margin-top: 0.25em;
+		}
+
+		.sans {
+			font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+		}
+
+		.code {
+			font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace;
+		}
+
+		.serif {
+			font-family: Lyon-Text, Georgia, ui-serif, serif;
+		}
+
+		.mono {
+			font-family: iawriter-mono, Nitti, Menlo, Courier, monospace;
+		}
+
+		.pdf .sans {
+			font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP';
+		}
+
+		.pdf:lang(zh-CN) .sans {
+			font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC';
+		}
+
+		.pdf:lang(zh-TW) .sans {
+			font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC';
+		}
+
+		.pdf:lang(ko-KR) .sans {
+			font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR';
+		}
+
+		.pdf .code {
+			font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP';
+		}
+
+		.pdf:lang(zh-CN) .code {
+			font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC';
+		}
+
+		.pdf:lang(zh-TW) .code {
+			font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC';
+		}
+
+		.pdf:lang(ko-KR) .code {
+			font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR';
+		}
+
+		.pdf .serif {
+			font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP';
+		}
+
+		.pdf:lang(zh-CN) .serif {
+			font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC';
+		}
+
+		.pdf:lang(zh-TW) .serif {
+			font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC';
+		}
+
+		.pdf:lang(ko-KR) .serif {
+			font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR';
+		}
+
+		.pdf .mono {
+			font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP';
+		}
+
+		.pdf:lang(zh-CN) .mono {
+			font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC';
+		}
+
+		.pdf:lang(zh-TW) .mono {
+			font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC';
+		}
+
+		.pdf:lang(ko-KR) .mono {
+			font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR';
+		}
+
+		.highlight-default {}
+
+		.highlight-gray {
+			color: rgb(155, 154, 151);
+		}
+
+		.highlight-brown {
+			color: rgb(100, 71, 58);
+		}
+
+		.highlight-orange {
+			color: rgb(217, 115, 13);
+		}
+
+		.highlight-yellow {
+			color: rgb(223, 171, 1);
+		}
+
+		.highlight-teal {
+			color: rgb(15, 123, 108);
+		}
+
+		.highlight-blue {
+			color: rgb(11, 110, 153);
+		}
+
+		.highlight-purple {
+			color: rgb(105, 64, 165);
+		}
+
+		.highlight-pink {
+			color: rgb(173, 26, 114);
+		}
+
+		.highlight-red {
+			color: rgb(224, 62, 62);
+		}
+
+		.highlight-gray_background {
+			background: rgb(235, 236, 237);
+		}
+
+		.highlight-brown_background {
+			background: rgb(233, 229, 227);
+		}
+
+		.highlight-orange_background {
+			background: rgb(250, 235, 221);
+		}
+
+		.highlight-yellow_background {
+			background: rgb(251, 243, 219);
+		}
+
+		.highlight-teal_background {
+			background: rgb(221, 237, 234);
+		}
+
+		.highlight-blue_background {
+			background: rgb(221, 235, 241);
+		}
+
+		.highlight-purple_background {
+			background: rgb(234, 228, 242);
+		}
+
+		.highlight-pink_background {
+			background: rgb(244, 223, 235);
+		}
+
+		.highlight-red_background {
+			background: rgb(251, 228, 228);
+		}
+
+		.block-color-default {
+			color: inherit;
+			fill: inherit;
+		}
+
+		.block-color-gray {
+			color: rgba(55, 53, 47, 0.6);
+			fill: rgba(55, 53, 47, 0.6);
+		}
+
+		.block-color-brown {
+			color: rgb(100, 71, 58);
+			fill: rgb(100, 71, 58);
+		}
+
+		.block-color-orange {
+			color: rgb(217, 115, 13);
+			fill: rgb(217, 115, 13);
+		}
+
+		.block-color-yellow {
+			color: rgb(223, 171, 1);
+			fill: rgb(223, 171, 1);
+		}
+
+		.block-color-teal {
+			color: rgb(15, 123, 108);
+			fill: rgb(15, 123, 108);
+		}
+
+		.block-color-blue {
+			color: rgb(11, 110, 153);
+			fill: rgb(11, 110, 153);
+		}
+
+		.block-color-purple {
+			color: rgb(105, 64, 165);
+			fill: rgb(105, 64, 165);
+		}
+
+		.block-color-pink {
+			color: rgb(173, 26, 114);
+			fill: rgb(173, 26, 114);
+		}
+
+		.block-color-red {
+			color: rgb(224, 62, 62);
+			fill: rgb(224, 62, 62);
+		}
+
+		.block-color-gray_background {
+			background: rgb(235, 236, 237);
+		}
+
+		.block-color-brown_background {
+			background: rgb(233, 229, 227);
+		}
+
+		.block-color-orange_background {
+			background: rgb(250, 235, 221);
+		}
+
+		.block-color-yellow_background {
+			background: rgb(251, 243, 219);
+		}
+
+		.block-color-teal_background {
+			background: rgb(221, 237, 234);
+		}
+
+		.block-color-blue_background {
+			background: rgb(221, 235, 241);
+		}
+
+		.block-color-purple_background {
+			background: rgb(234, 228, 242);
+		}
+
+		.block-color-pink_background {
+			background: rgb(244, 223, 235);
+		}
+
+		.block-color-red_background {
+			background: rgb(251, 228, 228);
+		}
+
+		.select-value-color-default {
+			background-color: rgba(206, 205, 202, 0.5);
+		}
+
+		.select-value-color-gray {
+			background-color: rgba(155, 154, 151, 0.4);
+		}
+
+		.select-value-color-brown {
+			background-color: rgba(140, 46, 0, 0.2);
+		}
+
+		.select-value-color-orange {
+			background-color: rgba(245, 93, 0, 0.2);
+		}
+
+		.select-value-color-yellow {
+			background-color: rgba(233, 168, 0, 0.2);
+		}
+
+		.select-value-color-green {
+			background-color: rgba(0, 135, 107, 0.2);
+		}
+
+		.select-value-color-blue {
+			background-color: rgba(0, 120, 223, 0.2);
+		}
+
+		.select-value-color-purple {
+			background-color: rgba(103, 36, 222, 0.2);
+		}
+
+		.select-value-color-pink {
+			background-color: rgba(221, 0, 129, 0.2);
+		}
+
+		.select-value-color-red {
+			background-color: rgba(255, 0, 26, 0.2);
+		}
+
+		.checkbox {
+			display: inline-flex;
+			vertical-align: text-bottom;
+			width: 16;
+			height: 16;
+			background-size: 16px;
+			margin-left: 2px;
+			margin-right: 5px;
+		}
+
+		.checkbox-on {
+			background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+		}
+
+		.checkbox-off {
+			background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+		}
+	</style>
+</head>
+
+<body>
+	<header>
+		<img class="page-cover-image" src="assets/images/17973792_10155211959252497_3080840241022433432_o.jpg"
+		style="object-position:center 66.38999999999999%" />
+	</header>
+	<article id="4bf3e17d-7773-4772-b30a-035f15f94e06" class="page sans">
+		<header>
+			<div class="page-header-icon page-header-icon-with-cover">
+				<img class="icon avatar" src="assets/images/36771312_10156348925246278_1640665034486972416_n.jpg" />
+			</div>
+			<h1 class="page-title">Gabriel Dehan</h1>
+		</header>
+		<div class="page-body">
+			<div id="cf6ea1c3-fff8-479b-b7e5-dc72b2b56fa6" class="column-list">
+				<div id="4891cdcd-8d56-4606-8cf3-fc963e0e32a9" style="width:50%" class="column">
+					<h2 id="c1d5c78a-f667-4ec1-b2da-7a379fa7ac86" class="definition">Web d<strong>eveloper &amp; Teacher</strong></h2>
+					<p id="850d116f-d58f-44a1-93e1-5fce3ba98584" class="block-color-gray">Single, 31 y.o.</p>
+					<p id="d3a9122b-52b7-4f1f-9ae9-6286c3dd8996" class="block-color-gray">​Paris 🇫🇷 France </p>
+					<p id="66ebc1fe-077d-4329-b48b-09df47b08b38" class="block-color-gray">Fluent in 🇫🇷 &amp; 🇬🇧</p>
+					<p id="39d8e0d3-f6e9-42df-8069-f1fff5bb7ea8" class="block-color-gray">Worked in 🇨🇦 🇨🇳 🇫🇷 🇦🇺 🇳🇱 🇵🇹
+						🇲🇦 🇧🇪</p>
+				</div>
+				<div id="99d49c47-b6f2-4ae7-83e9-ebfff434f01c" style="width:50%" class="column">
+					<p id="4c696a05-4e6e-4cd5-b5b8-1fe88fc74901" class=""><strong>Currently: On the look out </strong></p>
+					<p id="713d7707-01e1-41aa-8ee6-1deebaca44d8" class="">To help you build amazing products.</p>
+					<p id="8c21152a-7450-4946-a79c-3ad4946cb0a0" class="">&amp; <strong>Lead Teacher @Le Wagon - </strong>part
+						time</p>
+					<p id="7f8e517d-81d3-44bb-a7d8-0133c23640b2" class="">Passing on my knowledge and loving every instant of it.
+					</p>
+					<p id="07b182ef-7160-4874-878c-e7856722656b" class="block-color-gray">Last updated: 11 October 2021</p>
+				</div>
+			</div>
+			<p id="4a772700-6412-434e-a5e5-426cd7b15324" class=""><strong>Key Expertise</strong></p>
+			<ul id="33c85f20-730d-460b-9d3d-2290258681f8" class="bulleted-list">
+				<li style="list-style-type:disc">Fullstack development (10y+ experience)</li>
+			</ul>
+			<ul id="89142665-9129-49a2-a1bd-32d82f951424" class="bulleted-list">
+				<li style="list-style-type:disc">Teaching (5y+ experience)</li>
+			</ul>
+			<ul id="92d10b86-de49-41d6-aeeb-4a5e406fc63d" class="bulleted-list">
+				<li style="list-style-type:disc">System design &amp; architecture</li>
+			</ul>
+			<ul id="2dc8bec3-f933-4155-84e4-a9da8fdd1315" class="bulleted-list">
+				<li style="list-style-type:disc">Product design &amp; User Experience</li>
+			</ul>
+			<h1 id="e6f5b59f-2eff-4f6d-972c-ffe98c6d4ac3" class="">About me</h1>
+			<p id="1ea5324e-398f-4f82-a050-48fae1c70ea4" class="">Passionated about web development and code in general,
+				blockchain enthusiast, UX lover, I like designing and working on new and complex systems that result in a
+				beautiful user experience. </p>
+			<p id="375f9d47-2cb8-4248-8415-23a854fa5301" class="">
+			</p>
+			<p id="18665028-c1b9-495f-89a7-c315f4002a0a" class="">I&#x27;ve been self taught in development since the age of
+				14 but, always curious, I spent a year in art school before going back to the tech side, where I graduated from
+				Cifacom with a Project Manager diploma in 2013. </p>
+			<p id="1bda5072-51e5-4e5c-ae5f-553e9009060f" class="">I then co-founded my first startup <strong>CoHoop</strong>,
+				before joining <strong>Le Wagon</strong> as lead teacher in 2014 while working as a freelancer on a lot of
+				different projects .</p>
+			<p id="fb1b0c43-70f2-4dfc-9e28-b0a1d2df188d" class="">This journey and all these experiences gave me a great
+				product &amp; design sensitivity, as well as a very versatile set of skills.</p>
+			<p id="77f7206a-557c-4524-a8c7-69a9cd4cf71e" class="">In 2018 I joined <strong>Poi Network</strong>,<strong>
+				</strong>a decentralised network using Blockchain technology to boost the advent of the impact economy, as CTO,
+				designing the protocol&#x27;s architecture as well as conceiving &amp; developing multiple products before
+				leaving to follow my own path in late 2019.</p>
+			<p id="8bea2ac6-d3be-43af-b92a-9497fd811eba" class="">I then spent 2 years honing my front-end skills at
+				<strong>Shadow</strong> while also working on my most recent side-projects: <a
+					href="https://wolcen-universe.com/">https://wolcen-universe.com/</a>, <a
+					href="https://chronicondb.com/">https://chronicondb.com/</a> and <a
+					href="https://www.dysonsphereblueprints.com/">https://www.dysonsphereblueprints.com/</a> to name a few (and
+				yes, those are all video games related, if a game is good I need to spend more time creating a tool for it than
+				playing it, I just can&#x27;t help it 🤷‍♀️)
+			</p>
+			<p id="03626218-92e6-4132-b715-0a5556fdf9c1" class="">I am also usually quite active on <a
+					href="https://github.com/gabriel-dehan">github</a>, if you want to take a look there.</p>
+			<p id="bffc2aa6-1b5c-49dc-901d-9e94bd27b429" class="">
+			</p>
+			<p id="6516f431-eb22-4838-87f8-fb552c4620ad" class="">I am currently available as a freelance full-stack developer
+				and am open to propositions 🚀</p>
+			<p id="bc0e93df-6cd6-41ad-8a52-e4e104ff66a3" class="">
+			</p>
+			<p id="da63dd82-8eb9-4545-a137-f71247f337b0" class=""><em>Want to work with me?</em> Simply send me an <a
+					href="mailto:dehan.gabriel@gmail.com">email</a>.</p>
+			<p id="a28a510e-00a7-4721-823b-4163b45ed0bb" class="">
+				<br>
+			</p>
+			<div id="add7a602-4846-4c1e-a33c-5558fe7aae4b" class="column-list">
+				<div id="7995882b-3633-426c-bb83-3a7358a3edfd" style="width:50%" class="column">
+					<p id="2d95891b-d582-4213-9f87-c9efc35fb24e" class=""><strong>Back-end Development</strong></p>
+					<p id="6673f815-97ca-484b-89b8-a7faa34d0fd3" class="">API Design &amp; development</p>
+					<p id="954c8c2d-5e9f-47c0-a1b4-5bee7620a452" class="">Ruby &amp; Rails, NestJS, Express, Meteor</p>
+					<p id="f6b53558-e7cc-4880-a92a-a2e996421846" class="">SQL, GraphQL, MongoDB</p>
+				</div>
+				<div id="47c75478-bdf9-4e00-a3c0-105e6ccabb41" style="width:50%" class="column">
+					<p id="85d99712-2818-4b36-8565-07ad891ce3f0" class=""><strong>Front-end Development</strong></p>
+					<p id="9cb2a4bb-c7e6-44db-b87e-cd94a41361ed" class="">ES6 / Typescript, React, Vue, Meteor/Apollo, Webpack</p>
+					<p id="88977d24-7498-405d-8ae3-be19a1788499" class="">HTML/CSS3, SCSS, Bootstrap, jQuery (🤔)</p>
+				</div>
+			</div>
+			<div id="245cbf86-1214-4e5f-9221-16ee12ea5fbc" class="column-list">
+				<div id="65f02782-b4e9-45b4-9235-39eb303c96fb" style="width:50%" class="column">
+					<p id="a7847896-3ec9-434c-b4e9-21ea450ceae5" class=""><strong>Design</strong></p>
+					<p id="a40d45a7-c061-45cf-bbbf-b4bc1d7abc13" class="">Sketch, Photoshop, AI, SVG</p>
+				</div>
+				<div id="d2b00159-dbb1-4365-a228-63b6805fea22" style="width:50%" class="column">
+					<p id="712d213d-eb59-4320-b19e-d3e2ca817517" class=""><strong>UX &amp; Product</strong></p>
+					<p id="d2746b18-b005-49b4-9e04-dc3a667f9678" class="">UI &amp; UX Design, User testing, A/B testing</p>
+					<p id="1a2b492f-8889-4023-a5cb-948f8ee2404b" class="">
+					</p>
+				</div>
+			</div>
+			<div id="74339925-b485-4ee7-9fc9-89b238d0c0bb" class="column-list work-list">
+				<div id="484c339d-33c7-4623-9d2c-f4bb1c84d57f" style="width:66.66666666666666%" class="column">
+					<h1 id="07ad6620-0eae-4273-be7e-9fe80cc4ad0d" class="work">Work experience</h1>
+				</div>
+				<div id="47ffe2a7-5533-4804-8782-94b6ba92a633" style="width:16.666666666666668%" class="column">
+					<p id="917748cc-4e3d-4eb3-8c1d-e63fe58fceb6" class="">🍃 freelance</p>
+				</div>
+				<div id="3f3a6876-70b2-4db3-a4bb-9b70034e0e7a" style="width:16.66666666666668%" class="column">
+					<p id="e55ad6e2-5d2b-461c-bbfe-52908cf2dec7" class="">🍁 employee</p>
+				</div>
+			</div>
+			<div id="1eb6cbb2-8c4b-4d3c-9dce-151f153eafbb" class="column-list">
+				<div id="dbeef64b-80e7-4312-97e6-2e2e77452806" style="width:12.5%" class="column">
+					<p id="1ee67344-3f4e-4d87-b0f8-645e679fb7cb" class="">2014 – </p>
+				</div>
+				<div id="8a591065-bcef-400c-a8d8-4bc7b4f4caef" style="width:87.5%" class="column">
+					<p id="f5254035-f766-4e8f-8baa-5e3a534835bc" class="">🍃 <strong>Freelance developer</strong> @ <a
+							href="https://github.com/gabriel-dehan">Me</a></p>
+					<ul id="bac01921-d47b-4e08-aedc-3dab8525afdc" class="bulleted-list">
+						<li style="list-style-type:disc">Clients: Go Sport, APIE, Ubisoft, Fluidity, <a
+								href="https://www.youtube.com/watch?v=n33yarYxXHg">La Réserve</a>, Squirrel, Doggui, <a
+								href="https://www.babasport.fr/">Babasport</a>, <a href="https://shadow.tech/">Shadow</a>...</li>
+					</ul>
+					<p id="ec6f51a6-9a1f-461a-b019-b3d24a80cab1" class="">🍃 <strong>Lead Teacher</strong> @ <a
+							href="https://www.lewagon.com/">Le Wagon</a></p>
+					<ul id="3eab829e-861f-4010-8c93-a020e3d45421" class="bulleted-list">
+						<li style="list-style-type:disc">Gave <strong>250+</strong><em> lectures </em>👨‍🏫 to more than
+							<strong>700</strong><em> students </em>👩‍💻
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div id="6a5ca1ea-e6fb-45b6-9752-e7e2f7fd3475" class="column-list">
+				<div id="334ffd46-f620-411e-afca-764ec68b92d4" style="width:12.5%" class="column">
+					<p id="fa272ee2-8884-444b-83a3-9e1f20a512fc" class="">2018 – 19</p>
+				</div>
+				<div id="1e91d8f6-41a8-4e0a-a4ef-c5ad0d1e5fc4" style="width:87.5%" class="column">
+					<p id="ec8af25e-6dbe-4d62-aaee-c20a1e8543d4" class="">🍃 <strong>CTO</strong> @ <a
+							href="https://www.poi.network/">Poi Network</a></p>
+					<ul id="dfb2c0d7-a21b-4f82-a5d3-c28818354d91" class="bulleted-list">
+						<li style="list-style-type:disc">API &amp; Protocol architecture</li>
+					</ul>
+					<ul id="74a08b33-b70e-4a55-8bb9-2f730229e4bc" class="bulleted-list">
+						<li style="list-style-type:disc">MVP Development (API, Poi Pay, Poi Business) in 2018</li>
+					</ul>
+					<ul id="c25a6f6b-196a-44c9-9e19-bf3adc8145d7" class="bulleted-list">
+						<li style="list-style-type:disc">Product development in 2019</li>
+					</ul>
+				</div>
+			</div>
+			<div id="e0edafd1-695f-4e2d-86e2-e998c507956e" class="column-list">
+				<div id="a0818b0b-5c08-459c-b5c0-e8572c97b502" style="width:12.5%" class="column">
+					<p id="754138dd-9cf5-40d8-bcbf-b15969299bd3" class="">2013</p>
+				</div>
+				<div id="981a534d-cc63-4a56-8984-79b48f32a3cf" style="width:87.5%" class="column">
+					<p id="1c406281-abf1-4959-85ce-e5439b792c6c" class="">🍁 <strong>Back-end developer </strong>@ <a
+							href="https://www.linkedin.com/company/tigerlily/">Tigerlily</a></p>
+					<ul id="98998e29-ce16-4304-b9fe-9523e9183f06" class="bulleted-list">
+						<li style="list-style-type:disc">Traineeship. Database optimisation, Back-end features development</li>
+					</ul>
+					<p id="54d95afc-3f2f-46cd-93be-0d5947bcd556" class="">🍃 <strong>CTO &amp; Co-founder</strong> @ CoHoop</p>
+					<ul id="f2704c95-39bb-4d7b-9e28-45ac8a3256b6" class="bulleted-list">
+						<li style="list-style-type:disc">Architecture design, Product development &amp; Design</li>
+					</ul>
+				</div>
+			</div>
+			<div id="aabd9541-55f4-433a-9740-9c0f933656ad" class="column-list">
+				<div id="c338a4df-e5f0-4a07-b041-99da2315f23e" style="width:12.5%" class="column">
+					<p id="af9d6e1b-b9c0-4aa7-ab7a-207f70d5b02f" class="">2011-13</p>
+				</div>
+				<div id="f7c4796d-9104-46b5-9290-53514415570d" style="width:87.5%" class="column">
+					<p id="0030729a-92c2-43d7-8e58-942e9affd80c" class="">🍁 <strong>Front-end developer</strong> @ <a
+							href="https://www.novactive.com/">Novactive</a> - Web agency</p>
+					<ul id="8a602042-e495-4728-8fed-aecbcf339a60" class="bulleted-list">
+						<li style="list-style-type:disc">Traineeship. Worked on many projects for big clients (Air France, La Poste,
+							UFC que choisir, ...), Managed offshore front-end developer teams</li>
+					</ul>
+				</div>
+			</div>
+			<h2 id="5cdd1eb8-c094-4bec-aeb4-592a6d47e448" class="">Education</h2>
+			<div id="a844e26f-06cb-417b-81c5-8759ec60cb67" class="column-list">
+				<div id="a7adbe96-b297-4202-95f2-ce4b1288d76a" style="width:12.5%" class="column">
+					<p id="0780b6fb-894a-4d41-ba04-5bc5444e2b46" class="">2010 - 13 </p>
+				</div>
+				<div id="305ba203-0545-4b70-aa34-7a6b7687dd40" style="width:87.5%" class="column">
+					<p id="b2df477e-90b7-4ff1-8356-c514f53b1bec" class="">💻 <strong>Cifacom, development &amp; project management
+							school</strong></p>
+				</div>
+			</div>
+			<div id="320f56af-584c-428e-9590-23ee3e7a7af0" class="column-list">
+				<div id="858ad083-528e-4ada-899e-8ed6a380ea21" style="width:12.5%" class="column">
+					<p id="e71d324c-ab30-46cc-bc32-dddf1d3c6081" class="">2009 - 10 </p>
+				</div>
+				<div id="4957e6e8-33dd-428d-8058-4c1b1372988e" style="width:87.5%" class="column">
+					<p id="baf996db-983f-43cd-9593-473daa83b063" class="">🎨 <strong>e-art sup, digital creation school</strong>
+					</p>
+				</div>
+			</div>
+			<h1 id="8b05409d-e2ef-4579-b862-1a7f3560e0a3" class="">Links</h1>
+			<p id="749fd1f0-ad93-41ca-bbed-db953e402680" class="">
+			</p>
+			<figure id="b8113b0b-8ed5-4dc3-81a4-515718793b3c"><a href="https://github.com/gabriel-dehan"
+					class="bookmark source">
+					<div class="bookmark-info">
+						<div class="bookmark-text">
+							<div class="bookmark-title">gabriel-dehan - Overview</div>
+							<div class="bookmark-description">gabriel-dehan has 89 repositories available. Follow their code on
+								GitHub.</div>
+						</div>
+						<div class="bookmark-href"><img src="https://github.githubassets.com/favicon.ico"
+								class="icon bookmark-icon" />https://github.com/gabriel-dehan</div>
+					</div><img src="https://avatars0.githubusercontent.com/u/1383633?s=400&amp;v=4" class="bookmark-image" />
+				</a></figure>
+			<figure id="fa076ddf-c395-4a40-b587-3554a3555b61"><a href="https://www.linkedin.com/in/gabrieldehan/"
+					class="bookmark source">
+					<div class="bookmark-info">
+						<div class="bookmark-text">
+							<div class="bookmark-title">Gabriel Dehan - Développeur Ruby On Rails &amp; Javascript/Typescript -
+								Freelance | LinkedIn</div>
+							<div class="bookmark-description">I live and breathe Ruby On Rails &amp; ES6 but have a strong interest
+								and sensibility in UI and UX too. I have been totally infatuated about the blockchain space for the past
+								two years and have developed a number of tools in the ecosystem.</div>
+						</div>
+						<div class="bookmark-href"><img src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca"
+								class="icon bookmark-icon" />https://www.linkedin.com/in/gabrieldehan/</div>
+					</div><img
+						src="https://media-exp1.licdn.com/dms/image/C5603AQH6QooZ2JiOKw/profile-displayphoto-shrink_200_200/0/1539870083389?e=1639612800&amp;v=beta&amp;t=7ykt0K3jlR42Ddq3UCP9phtHuXItOkNgOwrePmtWSig"
+						class="bookmark-image" />
+				</a></figure>
+			<h1 id="609f74d8-5c34-42c3-b3ee-c59fd4952ac5" class="">Hobbies</h1>
+			<div id="c3b80b4f-fe1b-4a6c-be94-b82f4e0870d2" class="column-list">
+				<div id="363b7ff5-1d04-4687-81f9-74fcc8bec59d" style="width:50%" class="column">
+					<p id="0cca6d47-94e0-4191-b8f0-02683cc2d4fc" class="">🙏 Meditation &amp; Yoga</p>
+					<p id="af3aadc6-8e25-4c51-95be-1928bade7540" class="">🥘 Cooking</p>
+				</div>
+				<div id="7987bd11-7081-4e85-943f-d26d306cbaf2" style="width:50%" class="column">
+					<p id="69f7ff0e-1373-49af-8cd8-e53bb9c0cef9" class="">✒️ Writing &amp; 🌍 World building </p>
+					<p id="e5d6eed9-739e-43f0-b1a3-a59e5e3485cc" class="">🎮 Video Games</p>
+				</div>
+			</div>
+			<h1 id="d18085bf-ff88-4ff9-b0ac-12637011c90e" class="">Contact information</h1>
+			<div id="3fafe382-7bc3-4f6a-916c-12b54a5dc462" class="column-list">
+				<div id="650b9b62-386a-4467-adcb-1c8032a771ef" style="width:3.125%" class="column">
+					<p id="67cff30d-5b3b-4c09-b08c-8e132611cd17" class="">📞</p>
+				</div>
+				<div id="eaf72f1b-1308-4111-b3c5-af4c4b9ed6b3" style="width:34.375%" class="column">
+					<p id="d6bab82c-2ff3-4706-be08-1b22928a5c33" class=""><strong>Email:</strong></p>
+					<p id="e70cf0f5-2fa0-4d55-bfb3-9173d1c59286" class="">dehan.gabriel@gmail.com</p>
+					<p id="8fb1d136-98da-4f15-bc3c-246d550aaeee" class="">
+					</p>
+				</div>
+				<div id="79230770-11a6-47e1-b7f0-74f71e1009d8" style="width:31.25%" class="column">
+					<p id="bb79ac72-5261-4061-bcc8-192e6d57bca4" class=""><strong>Phone: </strong></p>
+					<p id="bb7009a2-010f-4c41-a7bd-d507bd05df41" class="">+33683853679</p>
+					<p id="476eb7c5-b6d2-4e33-b25e-c95847772493" class="">
+					</p>
+				</div>
+				<div id="18c8bb91-7e83-435b-8435-51e969757196" style="width:31.25%" class="column">
+					<p id="209a4b55-7ba4-420c-bdab-5fb106e7c294" class=""><strong>Twitter</strong>: <strong>@</strong>gabrieldehan
+					</p>
+					<p id="3a80b39b-bbbe-42be-8424-d1ed85fb1fb4" class=""><mark class="highlight-gray"><em>(but I never use
+								it)</em></mark></p>
+				</div>
+			</div>
+			<p id="1f578da7-cc84-4706-8812-0c48e376ad2b" class="">Thank you for your time! 👋</p>
+			<p id="e21e6c16-b0de-47d1-bc41-8efefc77e993" class="">
+			</p>
+		</div>
+	</article>
+</body>
+
+</html>
